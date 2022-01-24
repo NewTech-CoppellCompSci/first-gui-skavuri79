@@ -1,0 +1,18 @@
+3520 4 4 775000 
+1234 urmom Ln coppell TX 75019 
+7623 true src/lab/bighouse_1.png
+23688 8 6 43000000
+7191 california Dr irving TX 75205
+56628 false src/lab/bighouse_2.png
+18769 10 7 18900000
+1123 highjass house Dallas TX 75220
+56628 true src/lab/bighouse_3.png
+14407 8 6 15750000 
+3322 hithere Pkwy coppell TX 75205
+65340 true src/lab/bighouse_4.png
+8866 9 5 11950000 
+1234 superman Dr dallas TX 75205
+26571 true src/lab/bighouse_5.png
+9337 4 4 10000000 
+6769 mydog ln coppell TX 75019
+80150.4 true src/lab/bighouse_6.png
